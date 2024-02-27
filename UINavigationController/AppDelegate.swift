@@ -1,9 +1,11 @@
+//  /*
 //
-//  AppDelegate.swift
-//  UINavigationController
+//  Project: UINavigationController
+//  File: AppDelegate.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 27.02.2024
 //
-//  Created by Elaidzha Shchukin on 27.02.2024.
-//
+//  */ 
 
 import UIKit
 
